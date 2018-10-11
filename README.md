@@ -1,3 +1,3 @@
-# hello-world
+ hello-world
 practise
 committing changes
